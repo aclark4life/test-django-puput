@@ -259,3 +259,4 @@ INSTALLED_APPS.append("contactpage")  # noqa
 INSTALLED_APPS.append("privacypage")  # noqa
 INSTALLED_APPS.append("sitepage")  # noqa
 INSTALLED_APPS.append("puput")  # noqa
+INSTALLED_APPS.append("wagtail.contrib.routable_page")
